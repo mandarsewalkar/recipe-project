@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mandarsewalkar/recipe-project/static/css/main.1c8febc4.css",
+    "main.js": "/mandarsewalkar/recipe-project/static/js/main.65ceac8e.js",
+    "static/js/453.ad6eb26e.chunk.js": "/mandarsewalkar/recipe-project/static/js/453.ad6eb26e.chunk.js",
+    "static/media/Screenshot 2024-03-14 at 4.38.02 PM.png": "/mandarsewalkar/recipe-project/static/media/Screenshot 2024-03-14 at 4.38.02 PM.b4ae62b5199471398b0e.png",
+    "index.html": "/mandarsewalkar/recipe-project/index.html",
+    "main.1c8febc4.css.map": "/mandarsewalkar/recipe-project/static/css/main.1c8febc4.css.map",
+    "main.65ceac8e.js.map": "/mandarsewalkar/recipe-project/static/js/main.65ceac8e.js.map",
+    "453.ad6eb26e.chunk.js.map": "/mandarsewalkar/recipe-project/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c8febc4.css",
+    "static/js/main.65ceac8e.js"
+  ]
+}
