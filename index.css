@@ -1,0 +1,44 @@
+.v-align {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.v-alignBet {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.h-alignBet {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.h-align {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.h-alignEven {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.align-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.flexFit {
+  flex-grow: 1;
+}
+.gap {
+  gap: 20px;
+}
+h3 {
+  margin: 0px;
+}
